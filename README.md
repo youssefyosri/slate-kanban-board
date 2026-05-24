@@ -1,4 +1,3 @@
-<img width="344" height="530" alt="image" src="" />
 # Slate: Production-Ready Kanban UI
 
 [![Watch the Slate Demo](https://github.com/user-attachments/assets/804b6fb7-8899-4801-ad08-1f7683ea79f3)](https://www.youtube.com/shorts/LxyEU6Q8-Nk)
